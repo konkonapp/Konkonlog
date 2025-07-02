@@ -43,5 +43,14 @@
     "password": "thanhz1@konapp",
     "expiresAt": "2025-12-31",
     "allowOffline": true
+    
+  },
+  {
+    "id": "aeb2254e14476c3a",
+    "username": "namnguyen2682010",
+    "password": "mailaaedbnamnguyen",
+    "email": "nguyenbaonam2682010@gmail.com",
+    "expiresAt": "2025-12-31",
+    "allowOffline": true
   }
 ]
