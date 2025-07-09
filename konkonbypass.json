@@ -62,5 +62,14 @@
     "email": "phongthinhavatar@gmail.com",
     "expiresAt": "20-7-2025",
     "allowOffline": true
+    
+  },
+  {
+    "id": "7a2b574798cd23f8",
+    "username": "chestinken",
+    "password": "chestinkenactvch",
+    "email": "chestinken@gmail.com",
+    "expiresAt": "20-7-2025",
+    "allowOffline": true
   }
 ]
