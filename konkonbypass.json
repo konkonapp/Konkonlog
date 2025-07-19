@@ -4,7 +4,7 @@
     "username": "bin",
     "password": "bin",
     "email": "bin@gmail.com",
-    "expiresAt": "20-7-2025",
+    "expiresAt": "28-7-2025",
     "allowOffline": true
   },
   {
@@ -97,6 +97,15 @@
     "password": "konkon1",
     "email": "hzmod512003@gmail.com",
     "expiresAt": "20-7-2025",
+    "allowOffline": true
+    
+  },
+  {
+    "id": "7a2b574798cd23f8",
+    "username": "linhaka215",
+    "password": "linhaka1325",
+    "email": "linhaka215@gmail.com",
+    "expiresAt": "22-7-2025",
     "allowOffline": true
   }
 ]
