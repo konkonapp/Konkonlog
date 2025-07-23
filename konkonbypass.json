@@ -132,7 +132,16 @@
     "username": "quankaka",
     "password": "baoruruz",
     "email": "haod1758@gmail.com",
-    "expiresAt": "27-7-2025",
+    "expiresAt": "26-7-2025",
+    "allowOffline": true
+    
+  },
+  {
+    "id": "304b78513a76e3ef",
+    "username": "datquan118",
+    "password": "baoruruz",
+    "email": "datquan118@gmail.com",
+    "expiresAt": "26-7-2025",
     "allowOffline": true
   }
 ]
