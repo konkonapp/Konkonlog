@@ -1,4 +1,8 @@
 {
-  "bien-thanh-nhan-vat-phu": ["125.235.234.107", "fe80::15b5:1c71:7f3f:613a"],
-  "tien-hoa-bat-tu": ["125.235.234.107"]
+  "bien-thanh-nhan-vat-phu": [
+    "125.235.234.107"
+  ],
+  "tien-hoa-bat-tu": [
+    "125.235.234.107"
+  ]
 }
