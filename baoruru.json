@@ -1,4 +1,7 @@
-[
-  { "id": "001", "username": "bin", "password": "vip" },
-  { "id": "002", "username": "admin", "password": "123456" }
-]
+{
+  "devices": [
+    "YWNtZTIzNDU2QW5kcm9pZC1MaW51eA==",
+    "ZGV2aWNlM2xvY2Fs",
+    "dXNlcjEyMzR3aW5kb3dz"
+  ]
+}
