@@ -1,7 +1,6 @@
 {
-  "devices": [
-    "b8bf06dc891b3b8e",
-    "ZGV2aWNlM2xvY2Fs",
-    "dXNlcjEyMzR3aW5kb3dz"
+  "users": [
+    { "device": "b8bf06dc891b3b8e" },
+    { "device": "df5bc1d1b2aee742" }
   ]
 }
