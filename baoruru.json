@@ -1,4 +1,3 @@
-{
-  "baoruru001": "hu",
-  "truyen002": "vip123"
-}
+{ "baoruru001": "vip" } 
+hoặc 
+{ "baoruru001": ["matkhau1", "matkhau2"] }
